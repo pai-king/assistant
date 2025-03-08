@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.7c31def7.css",
-    "main.js": "./static/js/main.d4db3eb1.js",
+    "main.css": "./static/css/main.1e220689.css",
+    "main.js": "./static/js/main.755c8098.js",
     "static/js/453.774b32e4.chunk.js": "./static/js/453.774b32e4.chunk.js",
     "static/media/assistant-logo.png": "./static/media/assistant-logo.9fe12066f2045572e7b9.png",
     "index.html": "./index.html",
-    "main.7c31def7.css.map": "./static/css/main.7c31def7.css.map",
-    "main.d4db3eb1.js.map": "./static/js/main.d4db3eb1.js.map",
+    "main.1e220689.css.map": "./static/css/main.1e220689.css.map",
+    "main.755c8098.js.map": "./static/js/main.755c8098.js.map",
     "453.774b32e4.chunk.js.map": "./static/js/453.774b32e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c31def7.css",
-    "static/js/main.d4db3eb1.js"
+    "static/css/main.1e220689.css",
+    "static/js/main.755c8098.js"
   ]
 }
