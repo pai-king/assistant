@@ -3,17 +3,17 @@
   "name": "助手",
   "icons": [
     {
-      "src": "assistant.png",
+      "src": "assistant-logo.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "assistant.png",
+      "src": "assistant-logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "assistant.png",
+      "src": "assistant-logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
